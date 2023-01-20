@@ -8,4 +8,4 @@ authors:
   image_url: https://jason.af/headshot.jpg
 ---
 
-Check out our [new boopin’ docs](/docs/category/how-to-boop).
+Check out our [new boopin’ docs](/docs/boop).
